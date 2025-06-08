@@ -1,3 +1,3 @@
 # TVNet
 
-man coming soon
+This is offical repo for TVNet and MS-TVNet.
